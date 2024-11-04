@@ -1,0 +1,335 @@
+{
+  "arm": [
+    {
+      "exercise": "breed",
+      "description": "Wide-arm push-up variation to target the chest and shoulders.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "diamand",
+      "description": "Diamond push-up to focus on the triceps and inner chest.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "vuist",
+      "description": "Push-up variation performed on fists to strengthen the wrists and arms.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "vingers",
+      "description": "Push-up performed on fingers to build finger and hand strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "front",
+      "description": "Front-facing push-up for chest and core engagement.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "klap",
+      "description": "Clap push-up to develop explosive power in the upper body.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "1 hand",
+      "description": "One-handed push-up for increased upper body strength and balance.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "smal",
+      "description": "Narrow push-up to target the triceps and chest more intensely.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "tricep op bank",
+      "description": "Tricep dips performed on a bench to target the triceps.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "op 1 arm plank stoot",
+      "description": "One-arm plank punch to build core and arm stability.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "omgedraaide handstand tegen muur push up",
+      "description": "Reverse handstand push-up against the wall for shoulder and upper body strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "omgedraaide handstand tegen muur",
+      "description": "Reverse handstand against the wall to strengthen the shoulders and back.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "uitstappen stoot 1, 2, 3",
+      "description": "Step-out punch combo (1, 2, 3) for coordination and upper body strength.",
+      "videoLink": ""
+    }
+  ],
+  "leg": [
+    {
+      "exercise": "punch and switch stance",
+      "description": "Switch between different stances while performing kicks.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "down and jump back up",
+      "description": "Jump down into a squat position and back up.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "burpies",
+      "description": "A full body exercise that combines a squat, push-up, and jump.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "squads",
+      "description": "Perform squats to strengthen the legs and glutes.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "jumps",
+      "description": "Jump vertically to improve explosive leg strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "low walking",
+      "description": "Walk in a low stance to engage the legs and core.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "hamstring leg forward",
+      "description": "Hamstring stretch with one leg extended forward.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "hamstring leg backward",
+      "description": "Hamstring stretch with one leg extended backward.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "hamstring leg to the side",
+      "description": "Hamstring stretch with one leg extended to the side.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lift ankle",
+      "description": "Ankle lifts to strengthen the lower leg and improve balance.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "side kick roll",
+      "description": "Perform a side kick followed by a rolling motion.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "1 leg squat",
+      "description": "Single leg squat to improve strength and balance on one leg.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "jump 360 degrees and land in mabu",
+      "description": "360-degree jump landing in a horse stance (mabu).",
+      "videoLink": ""
+    },
+    {
+      "exercise": "jump 360 degrees",
+      "description": "Perform a 360-degree jump.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "rise up from lying position",
+      "description": "Get up from a lying position using leg strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "mabu/xi bu/pu bu walk",
+      "description": "Walking through various stances to improve leg strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "squat side kick",
+      "description": "Perform a side kick while in a squat position.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "squat push kick",
+      "description": "A push kick performed from a squat position.",
+      "videoLink": ""
+    }
+  ],
+  "hip": [
+    {
+      "exercise": "standing knee press up with weight",
+      "description": "Standing while pressing one knee up with added weight for resistance.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "one leg squat",
+      "description": "Single leg squat to improve strength and stability in the hips and legs.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "sit on the ground, legs wide, lift leg",
+      "description": "Sitting on the ground with legs wide apart and raising one leg upwards.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "sit on the ground, extend legs straight and lift up",
+      "description": "Sitting on the ground with legs extended straight and lifting them upward.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "sit on the ground, extend legs straight, lift up and to the side",
+      "description": "Sitting on the ground with legs extended straight and lifting them to the side.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on back, leg up 90 degrees",
+      "description": "Lying on the back with one leg lifted at a 90-degree angle.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "normal bridge",
+      "description": "Normal bridge exercise performed lying on the back with knees bent, lifting the body upwards.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "bridges 1 leg",
+      "description": "Single leg bridge exercise, lying on the back with one leg raised while lifting the body.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "bridges 1 leg with one leg over the other",
+      "description": "Bridge exercise with one leg over the other while lifting the body.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "pubu step left and right",
+      "description": "Stepping out to the left and right from a low stance to engage the hips.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on side, leg up",
+      "description": "Lying on the side with one leg lifted to target the hip muscles.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on side, leg back and forth",
+      "description": "Lying on the side and moving the leg back and forth for hip mobility.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on side, leg circles",
+      "description": "Lying on the side and making circular movements with the leg.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on side, legs bent, lift leg to open hip",
+      "description": "Lying on the side with bent legs, lifting one leg to open the hip.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on side, knee over leg, lift leg",
+      "description": "Lying on the side with one knee over the other leg while lifting the lower leg.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "kneeling, body lean backward",
+      "description": "Kneeling and leaning the body backward to stretch the hip flexors.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on stomach, lift one leg",
+      "description": "Lying on the stomach and lifting one leg upwards.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on stomach, lift both legs",
+      "description": "Lying on the stomach and lifting both legs upwards for lower back and hip strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "on hands and knees, leg side to side",
+      "description": "On hands and knees, moving the leg from side to side for hip mobility.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "lying on stomach, legs up, inward and outward",
+      "description": "Lying on the stomach with legs lifted, moving them inward and outward.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "on hands and knees, leg up and down",
+      "description": "On hands and knees, lifting and lowering the leg for glute activation.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "on hands and knees, bent leg side lift",
+      "description": "On hands and knees, lifting a bent leg to the side to target the hip.",
+      "videoLink": ""
+    }
+  ],
+  "belly": [
+    {
+      "exercise": "short sit up",
+      "description": "Short sit-up focusing on upper abdominal engagement with a limited range of motion.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "long sit up",
+      "description": "Full sit-up involving a complete range of motion to strengthen the entire abdominal area.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "side punch left",
+      "description": "Side punch to the left, engaging the obliques and core stability.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "side punch right",
+      "description": "Side punch to the right, targeting the obliques and enhancing rotational strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "flutter kicks",
+      "description": "Flutter kicks while lying on your back to target the lower abs.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "toe touch",
+      "description": "Lying on your back, reaching for your toes to engage the upper and lower abs.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "plank",
+      "description": "Standard plank exercise to strengthen the core, shoulders, and back.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "side plank left and right",
+      "description": "Side plank variations, engaging the obliques and improving core stability.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "side leg lift",
+      "description": "Lying on your side, lifting the legs to engage the obliques and hip flexors.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "leg lift",
+      "description": "Lying on your back, lifting both legs to engage the lower abdominal muscles.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "hold legs up and lift torso",
+      "description": "Holding the legs up while lifting the torso to engage the entire core.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "leg circles",
+      "description": "Lying on your back, moving the legs in a circular motion to work the lower abs.",
+      "videoLink": ""
+    }
+  ]
+}
