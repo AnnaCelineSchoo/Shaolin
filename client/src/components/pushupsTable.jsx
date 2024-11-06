@@ -8,7 +8,8 @@ function PushupTable({week}){
         // Simulate data fetching
          const fetchData = async () => {
             try {
-                const response = await fetch('/workouts/pushup.json');
+                const response = await fetch(`${process.env.PUBLIC_URL}/workouts/pushup.json`);
+                //const response = await fetch('/workouts/pushup.json');
                 const result = await response.json();
                 setData(result);
                 console.log("fetched data", result); // Log only once on mount

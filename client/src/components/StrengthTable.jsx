@@ -9,7 +9,8 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
         // Simulate data fetching
          const fetchData = async () => {
             try {
-                const response = await fetch('/workouts/strength.json');
+                //const response = await fetch('/workouts/strength.json');
+                const response = await fetch(`${process.env.PUBLIC_URL}/workouts/strength.json`);
                 const result = await response.json();
                 setData(result);
                 console.log("fetched data", result); // Log only once on mount
