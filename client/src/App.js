@@ -1,5 +1,6 @@
 
 import UserForm from "./components/UserForm.jsx"
+import Banner from "./components/Banner.jsx"
 
 // TODO
 // add workout to tables
@@ -10,8 +11,8 @@ import UserForm from "./components/UserForm.jsx"
 
 function App() {
   return (
-    <div className="container p-5 my-5 border">
-      <h1>Generate a Workout Plan</h1>
+    <div className="text-center">
+      <Banner />
       <UserForm />
     </div>
   );

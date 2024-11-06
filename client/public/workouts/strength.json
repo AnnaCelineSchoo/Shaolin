@@ -1,68 +1,110 @@
 {
   "arm": [
     {
-      "exercise": "breed",
+      "exercise": "wide pushups",
       "description": "Wide-arm push-up variation to target the chest and shoulders.",
       "videoLink": ""
     },
     {
-      "exercise": "diamand",
+      "exercise": "diamand pushups",
       "description": "Diamond push-up to focus on the triceps and inner chest.",
       "videoLink": ""
     },
     {
-      "exercise": "vuist",
+      "exercise": "fist pushups",
       "description": "Push-up variation performed on fists to strengthen the wrists and arms.",
       "videoLink": ""
     },
     {
-      "exercise": "vingers",
+      "exercise": "finger pushups",
       "description": "Push-up performed on fingers to build finger and hand strength.",
       "videoLink": ""
     },
     {
-      "exercise": "front",
+      "exercise": "front pushups",
       "description": "Front-facing push-up for chest and core engagement.",
       "videoLink": ""
     },
     {
-      "exercise": "klap",
+      "exercise": "clap pushups",
       "description": "Clap push-up to develop explosive power in the upper body.",
       "videoLink": ""
     },
     {
-      "exercise": "1 hand",
+      "exercise": "1 hand pushups",
       "description": "One-handed push-up for increased upper body strength and balance.",
       "videoLink": ""
     },
     {
-      "exercise": "smal",
+      "exercise": "narrow pushups",
       "description": "Narrow push-up to target the triceps and chest more intensely.",
       "videoLink": ""
     },
     {
-      "exercise": "tricep op bank",
+      "exercise": "tricep pushup on couch",
       "description": "Tricep dips performed on a bench to target the triceps.",
       "videoLink": ""
     },
     {
-      "exercise": "op 1 arm plank stoot",
+      "exercise": "one arm plank punch",
       "description": "One-arm plank punch to build core and arm stability.",
       "videoLink": ""
     },
     {
-      "exercise": "omgedraaide handstand tegen muur push up",
+      "exercise": "handstand (pushup)",
       "description": "Reverse handstand push-up against the wall for shoulder and upper body strength.",
       "videoLink": ""
-    },
+    }
+  ],
+  "stamina": [
     {
-      "exercise": "omgedraaide handstand tegen muur",
-      "description": "Reverse handstand against the wall to strengthen the shoulders and back.",
+      "exercise": "mabu punch 1, 2, 3",
+      "description": "Mabu punch. For coordination and upper body strength.",
       "videoLink": ""
     },
     {
-      "exercise": "uitstappen stoot 1, 2, 3",
-      "description": "Step-out punch combo (1, 2, 3) for coordination and upper body strength.",
+      "exercise": "mabu punch 2",
+      "description": "Mabu punch combo 2 punshes. For coordination and upper body strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "mabu punch 3",
+      "description": "Mabu punch combo 3 punshes. For coordination and upper body strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "mabu gong bu punch",
+      "description": "switch between mabu and gong bu  and switch punshes",
+      "videoLink": ""
+    },
+    {
+      "exercise": "mabu gong bu punch",
+      "description": "switch between mabu and gong bu and switch punshes",
+      "videoLink": ""
+    },
+    {
+      "exercise": "mabu gong bu grab and punch",
+      "description": "switch between mabu and gong bu in mabu block in gong bu grab and punch",
+      "videoLink": ""
+    },
+    {
+      "exercise": "mabu gong bu hands on back",
+      "description": "switch between mabu and gong bu with the hands on the back",
+      "videoLink": ""
+    },
+    {
+      "exercise": "mabu gong bu hands on back",
+      "description": "switch between mabu and gong bu with the hands on the back",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic round punch",
+      "description": "A round punch technique for practicing rotational power.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic step out up down",
+      "description": "Basic punshing excersise stepping out in pu bu and punch right, one leg up punsh left, back to mabu punch right, gongbu one knee on ground punch right, step back legs together punch in hand",
       "videoLink": ""
     }
   ],
@@ -331,5 +373,147 @@
       "description": "Lying on your back, moving the legs in a circular motion to work the lower abs.",
       "videoLink": ""
     }
-  ]
+  ],
+  "stances":[
+    {
+      "exercise": "1 mabu",
+      "description": "A traditional horse stance that strengthens the legs and builds endurance.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "2 gong bu",
+      "description": "A forward lunge stance used for stability and transitioning in forms.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "3 xu bu (catstand)",
+      "description": "A stance where one leg bears most of the weight, used to build balance and flexibility.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "4 pu bu",
+      "description": "A low stance stretching one leg while the other remains bent, developing flexibility and strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "5 Xie Bu",
+      "description": "A cross-legged stance, emphasizing leg strength and mobility.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "6 crossed leg stance (vorm 8)",
+      "description": "A stance where the legs are crossed, promoting balance and coordination.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "7 T-stance",
+      "description": "A balancing stance used for transitioning in martial arts forms.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "8 raised knee stance",
+      "description": "A stance where one knee is raised, focusing on balance and hip strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "9 sitting stance",
+      "description": "A wide stance where the body lowers into a seated position, building leg strength and endurance.",
+      "videoLink": ""
+    }
+  ],
+  "basics":[
+    {
+      "exercise": "basic 1: horse stance",
+      "description": "A foundational horse stance that builds strength and stability.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 2: horse stance elbow strike",
+      "description": "A horse stance combined with an elbow strike to train power and coordination.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 3: low stance",
+      "description": "A low stance to improve flexibility and leg strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 4: low stance elbow strike",
+      "description": "A low stance followed by an elbow strike for developing combined flexibility and striking ability.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 5: cross-legged block punch",
+      "description": "A cross-legged stance with a defensive block and punch to enhance agility and response.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 6: thrust cat stance",
+      "description": "A cat stance with a thrust motion to train precision and balance.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 7: block double punch",
+      "description": "A block followed by a double punch for practicing defensive and offensive combinations.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 8: swing kick block double punch to the side",
+      "description": "A sequence of swinging kick, block, and double punch to the side, focusing on coordination.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 9: push kick",
+      "description": "A push kick used for creating distance and training leg strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 10: thrust spinning kick",
+      "description": "A thrust combined with a spinning kick for dynamic movement.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 11: arms straight turn",
+      "description": "Arm movements followed by a turn to train fluidity and upper body coordination.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 12: ground sweep",
+      "description": "A sweeping motion on the ground to improve flexibility and leg control.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 13: spinning kick with jump",
+      "description": "A spinning kick performed with a jump for practicing explosive power.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 14: spinning kick block",
+      "description": "A spinning kick paired with a block to train multi-tasking in defense and offense.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 15: double palm sweep",
+      "description": "A double palm sweeping motion for practicing defensive techniques.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 16: sweep to low stance",
+      "description": "A sweeping motion transitioning into a low stance, enhancing fluidity and flexibility.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 17: thrust turn with arms (five-step form)",
+      "description": "A thrust followed by a turn with arm movements in a five-step form, focusing on flow and technique.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "basic 18: backward kick",
+      "description": "A backward kick to train balance and rear defense.",
+      "videoLink": ""
+    }
+  ],
+  "forms": [
+    
+  ]  
 }

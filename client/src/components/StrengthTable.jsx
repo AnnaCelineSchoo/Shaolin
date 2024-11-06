@@ -1,16 +1,9 @@
 import React, {useState, useEffect} from "react";
-//import data from "./../workouts/workout.json";
-//import strength from "./../workouts/strength.json"
 
-
-function StrengthTable({type, week, level}){
+function StrengthTable({type, week, reps, sets, amount}){
     const [data, setData] = useState([]);
     const [workoutData, setWorkoutData]= useState([])
     const [excersises, setExcersises] = useState([]);
-    const [reps, setReps] = useState(10);
-    const [sets, setSets] = useState(3);
-    const [amountOfExcersises, setamountOfExcersises] = useState(3);
-
 
     useEffect(() => {
         // Simulate data fetching
@@ -27,28 +20,8 @@ function StrengthTable({type, week, level}){
                 console.log("type:", type)
                 console.log("Workout data for type:", workoutData);
     
-                // Calculate reps, sets, and amountOfExercises based on level
-                if (level === "beginner") {
-                    setReps(parseInt(week) + 10);
-                    setSets(3);
-                    setamountOfExcersises(3);
-                    console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
-                }
-                else if(level === "intermediate"){
-                    setReps(parseInt(week) + 10);
-                    setSets(4);
-                    setamountOfExcersises(5);
-                    console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
-                }
-                else if(level === "advanced"){
-                    setReps(parseInt(week) + 10);
-                    setSets(5);
-                    setamountOfExcersises(7);
-                    console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
-                }
-    
                 let excersiseNumbers = [];
-                while (excersiseNumbers.length < amountOfExcersises) {
+                while (excersiseNumbers.length < amount) {
                     const randomNr = Math.floor(Math.random() * workoutData.length);
                     if (!excersiseNumbers.includes(randomNr)) {
                         excersiseNumbers.push(randomNr);
@@ -66,33 +39,35 @@ function StrengthTable({type, week, level}){
         };
 
         fetchData();
-    }, [type, week, level]);
+    }, [type, week, reps, sets, amount]);
 
         return (
         <div>
-            <h4>Strenght {type}</h4>
-            <table className="table table-striped">
-                <thead>
-                    <tr>
-                        <th>Round</th>
-                        <th>Excersise</th>
-                        <th>reps</th>
-                        <th>sets</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {excersises.map((excersise, index) =>{
-                        return (
-                        <tr key={index}>
-                            <th>{index+1}</th>
-                            <td>{excersise.exercise}</td>
-                            <td>{reps}</td>
-                            <td>{sets}</td>
+            <h4 className="bg-black text-white text-center py-2">{type}</h4>
+            <div className="table-responsive">
+                <table className="table table-striped">
+                    <thead>
+                        <tr>
+                            {/* <th>Round</th> */}
+                            <th>Excersise</th>
+                            <th>{type === "basics" || type === "stances"? "Holding time" : "reps"}</th>
+                            <th>sets</th>
                         </tr>
-                        )
-                    })}
-                </tbody>
-            </table>  
+                    </thead>
+                    <tbody>
+                        {excersises.map((excersise, index) =>{
+                            return (
+                            <tr key={index}>
+                                {/* <th>{index+1}</th> */}
+                                <td>{excersise.exercise}</td>
+                                <td>{type === "basics" || type === "stances"? "-" : reps}</td>
+                                <td>{sets}</td>
+                            </tr>
+                            )
+                        })}
+                    </tbody>
+                </table> 
+            </div> 
         </div>
     );           
 }
