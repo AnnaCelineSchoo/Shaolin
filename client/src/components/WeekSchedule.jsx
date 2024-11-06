@@ -2,7 +2,7 @@ import React from "react";
 import StrengthTable from "./StrengthTable";
 import PushupTable from "./pushupsTable";
 
-function WeekSchedule({week, reps, sets, amount, pushupWeek}) {
+function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime}) {
     return (
         <div className="container mt-4">
             <div className="row">
@@ -14,7 +14,7 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek}) {
                         </div>
                         <div className="card-body">
                             <PushupTable week={pushupWeek} />
-                            <StrengthTable type="arm" week={week} reps={reps} sets={sets} amount={amount} />
+                            <StrengthTable type="arm" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                         </div>
                     </div>
                 </div>
@@ -26,9 +26,9 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek}) {
                             <h4>Monday</h4>
                         </div>
                         <div className="card-body">
-                            <StrengthTable type="leg" week={week} reps={reps} sets={sets} amount={amount} />
-                            <StrengthTable type="stances" week={week} reps={reps} sets={sets} amount={amount} />
-                            <StrengthTable type="stamina" week={week} reps={reps} sets={sets} amount={amount}/>
+                            <StrengthTable type="leg" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                            <StrengthTable type="stances" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                            <StrengthTable type="stamina" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime}/>
                         </div>
                     </div>
                 </div>
@@ -40,9 +40,9 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek}) {
                             <h4>Tuesday</h4>
                         </div>
                         <div className="card-body">
-                            <StrengthTable type="hip" week={week} reps={reps} sets={sets} amount={amount} />
-                            <StrengthTable type="belly" week={week} reps={reps} sets={sets} amount={amount} />
-                            <StrengthTable type="basics" week={week} reps={reps} sets={sets} amount={amount} />
+                            <StrengthTable type="hip" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                            <StrengthTable type="belly" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                            <StrengthTable type="basics" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek}) {
                         </div>
                         <div className="card-body">
                             <PushupTable week={pushupWeek} />
-                            <StrengthTable type="arm" week={week} reps={reps} sets={sets} amount={amount} />
+                            <StrengthTable type="arm" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                         </div>
                     </div>
                 </div>
@@ -69,8 +69,8 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek}) {
                             <h4>Thursday</h4>
                         </div>
                         <div className="card-body">
-                            <StrengthTable type="hip" week={week} reps={reps} sets={sets} amount={amount} />
-                            <StrengthTable type="belly" week={week} reps={reps} sets={sets} amount={amount} />
+                            <StrengthTable type="hip" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                            <StrengthTable type="belly" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                         </div>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
 
-function StrengthTable({type, week, reps, sets, amount}){
+function StrengthTable({type, week, reps, sets, amount, holdingTime}){
     const [data, setData] = useState([]);
     const [workoutData, setWorkoutData]= useState([])
     const [excersises, setExcersises] = useState([]);
@@ -50,7 +50,7 @@ function StrengthTable({type, week, reps, sets, amount}){
                         <tr>
                             {/* <th>Round</th> */}
                             <th>Excersise</th>
-                            <th>{type === "basics" || type === "stances"? "Holding time" : "reps"}</th>
+                            <th>{type === "basics" || type === "stances"? "Holding time (sec)" : "reps"}</th>
                             <th>sets</th>
                         </tr>
                     </thead>
@@ -60,7 +60,7 @@ function StrengthTable({type, week, reps, sets, amount}){
                             <tr key={index}>
                                 {/* <th>{index+1}</th> */}
                                 <td>{excersise.exercise}</td>
-                                <td>{type === "basics" || type === "stances"? "-" : reps}</td>
+                                <td>{type === "basics" || type === "stances"? holdingTime : reps}</td>
                                 <td>{sets}</td>
                             </tr>
                             )
