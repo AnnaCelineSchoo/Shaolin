@@ -2,6 +2,7 @@
 import UserForm from "./components/UserForm.jsx"
 import Banner from "./components/Banner.jsx"
 
+
 // TODO
 // add workout to tables
 // make pdf downloadable
@@ -10,12 +11,19 @@ import Banner from "./components/Banner.jsx"
 
 
 function App() {
+
+
+
   return (
     <div className="text-center">
-      <Banner />
+      <Banner/>
       <UserForm />
     </div>
   );
 }
 
 export default App;
+
+
+
+

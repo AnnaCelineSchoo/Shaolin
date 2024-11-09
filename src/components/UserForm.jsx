@@ -113,7 +113,6 @@ function UserForm(){
     
           <div style={{ display: submitStatus ? 'block' : 'none' }} className="mt-4">
             <div className="card shadow-lg p-4">
-              <h4 className="text-center">Workout plan for a {level} at intensity level {week}</h4>
               <WeekSchedule
                 week={week}
                 reps={reps}
@@ -121,6 +120,7 @@ function UserForm(){
                 amount={amountOfExcersises}
                 pushupWeek={pushupWeek}
                 holdingTime={holdingTime}
+                level={level}
               />
             </div>
           </div>
