@@ -3,7 +3,7 @@ import StrengthTable from "./StrengthTable";
 import PushupTable from "./pushupsTable";
 import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
-import FormTable from "./FormTable";
+
 
 function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime, level}) {
     const rootRef = useRef();

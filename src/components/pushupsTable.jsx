@@ -1,7 +1,6 @@
 import React, {useState, useEffect} from "react";
 
 function PushupTable({week}){
-    const [data, setData] = useState([]);
     const [excersises, setExcersises] = useState([]);
 
     useEffect(() => {
@@ -11,11 +10,10 @@ function PushupTable({week}){
                 const response = await fetch(`${process.env.PUBLIC_URL}/workouts/pushup.json`);
                 //const response = await fetch('/workouts/pushup.json');
                 const result = await response.json();
-                setData(result);
                 console.log("fetched data", result); // Log only once on mount
 
                 if (result.weeks && result.weeks[week]) {
-                    const pushupWeekExcersises = data.weeks[week]; // Ensure workoutData is defined
+                    const pushupWeekExcersises = result.weeks[week]; // Ensure workoutData is defined
                     setExcersises(pushupWeekExcersises);
                     console.log("Workout data for type:", pushupWeekExcersises);
                 }else{

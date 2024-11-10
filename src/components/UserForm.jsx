@@ -37,7 +37,7 @@ function UserForm(){
         }
         if (level === "novice") {
           setReps(parseInt(week) + 9);
-          setSets(3);
+          setSets(2);
           setamountOfExcersises(3);
           setPushupWeek((parseInt(week) +4).toString());
           setHoldingTime(((parseInt(week)*2) +10).toString())
@@ -53,7 +53,7 @@ function UserForm(){
         }
         else if(level === "proficient"){
           setReps(parseInt(week) + 19);
-          setSets(4);
+          setSets(3);
           setamountOfExcersises(4);
           setPushupWeek((parseInt(week) +20).toString());
           setHoldingTime(((parseInt(week)*3) +60).toString())
@@ -61,7 +61,7 @@ function UserForm(){
       }
         else if(level === "advanced"){
             setReps(parseInt(week) + 29);
-            setSets(5);
+            setSets(4);
             setamountOfExcersises(4);
             setPushupWeek(30);
             setHoldingTime(((parseInt(week)*3) +180).toString())
@@ -90,14 +90,12 @@ function UserForm(){
               setWeaponForms(result.weaponForm);
               setTaiChiForms(result.taiChiForm);
               setTaiChiWeaponForms(result.taiChiWeaponForm)
-              console.log("fetched from data", result); // Log only once on mount
-              console.log("beginnerforms", beginnerForms)
           } catch (error) {
               console.error("Error fetching data:", error);
           }
         };
         fetchData();
-    }, [selectFormsStatus]);
+    }, []);
 
     function handleCheckboxChange(e, category) {
       const { value, checked } = e.target;
@@ -163,7 +161,7 @@ function UserForm(){
                     return (
                       <div key={index}>
                         <input type="checkbox" id={index} name={form.exercise} value={form.exercise} onChange={(e) => handleCheckboxChange(e, "beginnerForm")}/>
-                        <label for={form.exercise}>{form.exercise}</label><br/>
+                        <label htmlFor={form.exercise}>{form.exercise}</label><br/>
                       </div>
                     );
                   })}
@@ -174,7 +172,7 @@ function UserForm(){
                     return (
                       <div key={index}>
                         <input type="checkbox" id={index} name={form.exercise} value={form.exercise} onChange={(e) => handleCheckboxChange(e, "higherFrom")}/>
-                        <label for={form.exercise}>{form.exercise}</label><br/>
+                        <label htmlFor={form.exercise}>{form.exercise}</label><br/>
                       </div>
                     );
                   })}
@@ -185,7 +183,7 @@ function UserForm(){
                     return (
                       <div key={index}>
                         <input type="checkbox" id={index} name={form.exercise} value={form.exercise} onChange={(e) => handleCheckboxChange(e, "weaponForm")}/>
-                        <label for={form.exercise}>{form.exercise}</label><br/>
+                        <label htmlFor={form.exercise}>{form.exercise}</label><br/>
                       </div>
                     );
                   })}
@@ -196,7 +194,7 @@ function UserForm(){
                     return (
                       <div key={index}>
                         <input type="checkbox" id={index} name={form.exercise} value={form.exercise} onChange={(e) => handleCheckboxChange(e, "taiChiForm")}/>
-                        <label for={form.exercise}>{form.exercise}</label><br/>
+                        <label htmlFor={form.exercise}>{form.exercise}</label><br/>
                       </div>
                     );
                   })}
@@ -207,7 +205,7 @@ function UserForm(){
                     return (
                       <div key={index}>
                         <input type="checkbox" id={index} name={form.exercise} value={form.exercise} onChange={(e) => handleCheckboxChange(e, "taiChiWeaponForm")}/>
-                        <label for={form.exercise}>{form.exercise}</label><br/>
+                        <label htmlFor={form.exercise}>{form.exercise}</label><br/>
                       </div>
                     );
                   })}
