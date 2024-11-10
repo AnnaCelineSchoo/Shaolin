@@ -3,6 +3,7 @@ import StrengthTable from "./StrengthTable";
 import PushupTable from "./pushupsTable";
 import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
+import FormTable from "./FormTable";
 
 function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime, level}) {
     const rootRef = useRef();
@@ -62,6 +63,7 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime, level}
                             <div className="card-body">
                                 <PushupTable week={pushupWeek} />
                                 <StrengthTable type="arm" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                                <StrengthTable type="weaponForm" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                             </div>
                         </div>
                     </div>
@@ -105,6 +107,9 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime, level}
                             <div className="card-body">
                                 <PushupTable week={pushupWeek} />
                                 <StrengthTable type="arm" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                                <StrengthTable type="beginnerForm" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                                <StrengthTable type="higherForm" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+
                             </div>
                         </div>
                     </div>
@@ -118,6 +123,8 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime, level}
                             <div className="card-body">
                                 <StrengthTable type="hip" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                                 <StrengthTable type="belly" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                                <StrengthTable type="taiChiForm" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+
                             </div>
                         </div>
                     </div>

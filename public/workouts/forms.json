@@ -1,0 +1,121 @@
+{
+    "beginner": [
+      {
+        "name": "vorm 1 Wu Bu Quan",
+        "description": "Basic foundational form for stance work.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 2 Lian Huan Quan",
+        "description": "Basic continuous form focusing on fluid transitions.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 3 Lian Bu Quan",
+        "description": "Basic linking step form for coordination and flow.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 4 Ba Bu Lian Bu Quan",
+        "description": "Eight-step linking form for balance and control.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 5 Xiao Hong Quan",
+        "description": "Small Red Fist form with basic combat applications.",
+        "videoLink": ""
+      },
+      {
+        "name": "Animal Wu Xing Quan",
+        "description": "Animal-style Five Element Fist form.",
+        "videoLink": ""
+      }
+    ],
+    "higher": [
+      {
+        "name": "vorm 5 Xiao Hong Quan",
+        "description": "Small Red Fist form with more advanced combat applications.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 8 Zhao Yang Quan",
+        "description": "Zhao Yang Fist form, focused on agility and power.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 9 Tong Bei Quan",
+        "description": "Tong Bei Fist form emphasizing power from the back.",
+        "videoLink": ""
+      },
+      {
+        "name": "Lohan",
+        "description": "Lohan form, representing the spirit of the Arhat.",
+        "videoLink": ""
+      },
+      {
+        "name": "Qi Xin Quan",
+        "description": "Qi Xin Fist form, focusing on internal strength and stability.",
+        "videoLink": ""
+      }
+    ],
+    "weapon": [
+      {
+        "name": "Qi mei Gun",
+        "description": "Long staff form emphasizing sweeping techniques.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 6 Yin Shou Gun",
+        "description": "Hidden Hand Staff form with complex techniques.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 7 Shaolin Dan Dao",
+        "description": "Single Sabre form with powerful strikes.",
+        "videoLink": ""
+      },
+      {
+        "name": "vorm 13 speer",
+        "description": "Spear form with thrusts and agile maneuvers.",
+        "videoLink": ""
+      },
+      {
+        "name": "Qing Feng Jian",
+        "description": "Light Breeze Sword form focused on grace and precision.",
+        "videoLink": ""
+      },
+      {
+        "name": "Shaolin fan",
+        "description": "Fan form incorporating defense and flexibility.",
+        "videoLink": ""
+      },
+      {
+        "name": "Pu dao form",
+        "description": "Pu Dao form using a polearm with cutting techniques.",
+        "videoLink": ""
+      }
+    ],
+    "taiChi": [
+    {
+      "exercise": "Chen Tai Chi 18",
+      "description": "A foundational Tai Chi form with 18 movements from the Chen style.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Chen Tai Chi 24 fan",
+      "description": "A Tai Chi form incorporating fan techniques with 24 movements.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Rou Quan",
+      "description": "A soft and flowing form emphasizing circular movements.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Chen Tai Chi 13 dao",
+      "description": "A Chen style Tai Chi form focusing on dao (sword) techniques with 13 movements.",
+      "videoLink": ""
+    }
+  ]
+  }
+  

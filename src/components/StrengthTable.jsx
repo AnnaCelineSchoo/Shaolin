@@ -1,8 +1,6 @@
 import React, {useState, useEffect} from "react";
 
 function StrengthTable({type, week, reps, sets, amount, holdingTime}){
-    const [data, setData] = useState([]);
-    const [workoutData, setWorkoutData]= useState([])
     const [excersises, setExcersises] = useState([]);
 
     useEffect(() => {
@@ -10,17 +8,9 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
          const fetchData = async () => {
             try {
                 //const response = await fetch('/workouts/strength.json');
-                const response = await fetch(`${process.env.PUBLIC_URL}/workouts/strength.json`);
+                const response = await fetch(`${process.env.PUBLIC_URL}/workouts/excersises.json`);
                 const result = await response.json();
-                setData(result);
-                console.log("fetched data", result); // Log only once on mount
-                console.log("data length", data[type].length);
-
-                const workoutData = data[type]; // Ensure workoutData is defined
-                setWorkoutData(workoutData);
-                console.log("type:", type)
-                console.log("Workout data for type:", workoutData);
-    
+                const workoutData = result[type]; // Ensure workoutData is defined
                 let excersiseNumbers = [];
                 while (excersiseNumbers.length < amount) {
                     const randomNr = Math.floor(Math.random() * workoutData.length);
@@ -28,11 +18,9 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                         excersiseNumbers.push(randomNr);
                     }
                 }
-    
                 // Build the list of exercises
                 const excersisesList = excersiseNumbers.map(index => workoutData[index]);
                 setExcersises(excersisesList);
-                console.log(excersisesList);
                 
             } catch (error) {
                 console.error("Error fetching data:", error);
@@ -51,8 +39,9 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                         <tr>
                             {/* <th>Round</th> */}
                             <th>Excersise</th>
-                            <th>{type === "basics" || type === "stances"? "Holding time (sec)" : "reps"}</th>
-                            <th>sets</th>
+                            {type.includes("Form") || type.includes("basics")? null: <th>{ type === "stances" ? "Holding time (sec)" : "reps"}</th>}
+                            {type.includes("Form") || type.includes("basics")  ? null : <th>Sets</th>}
+                            <th>videolink</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -61,8 +50,9 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                             <tr key={index}>
                                 {/* <th>{index+1}</th> */}
                                 <td>{excersise.exercise}</td>
-                                <td>{type === "basics" || type === "stances"? holdingTime : reps}</td>
-                                <td>{sets}</td>
+                                {type.includes("Form") || type.includes("basics")? null : <td>{type === "stances"? holdingTime : reps}</td>}
+                                {type.includes("Form")|| type.includes("basics") ? null : <td>{sets}</td>}
+                                {excersise.videoLink === ""? <td>not availible</td> : <td><a className="link-danger link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href={excersise.videoLink} target="_blank" rel="noopener noreferrer">video</a></td> }
                             </tr>
                             )
                         })}

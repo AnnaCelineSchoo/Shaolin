@@ -44,6 +44,20 @@ h4 {
   margin-bottom: 20px;
 }
 
+.checkbox-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
+  gap: 10px; /* Adds space between checkbox items */
+}
+
+.checkbox-item{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+
 label {
   font-size: 1rem;
   font-weight: 600;

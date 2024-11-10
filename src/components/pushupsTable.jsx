@@ -35,6 +35,7 @@ function PushupTable({week}){
         return (
         <div>
             <h4 className="bg-black text-white text-center py-2">Pushups</h4>
+            <p>Take a 2-minute break between each round. For proper push-up form, watch this instructional video: <a className="link-danger link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=IODxDxX7oi4&ab_channel=Calisthenicmovement">pushup instruction video</a></p>
             <table className="table table-striped">
                 <thead>
                     <tr>
