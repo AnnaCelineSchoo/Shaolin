@@ -609,7 +609,7 @@
         "videoLink": "https://www.youtube.com/watch?v=YYJK9PSGA_c&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
       }
     ],
-  "taiChi_forms": [
+  "tai_chi_forms": [
     {
       "exercise": "Chen Tai Chi 18",
       "description": "A foundational Tai Chi form with 18 movements from the Chen style.",
@@ -619,19 +619,9 @@
       "exercise": "Rou Quan",
       "description": "A soft and flowing form emphasizing circular movements.",
       "videoLink": "https://www.youtube.com/watch?v=3PAZOo1DSDA&t=120s&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3"
-    },
-    {
-      "exercise": "Chen Tai Chi 24 fan",
-      "description": "A Tai Chi form incorporating fan techniques with 24 movements.",
-      "videoLink": "https://www.youtube.com/watch?v=ttjnRvruaOM&t=14s&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3"
-    },
-    {
-      "exercise": "Chen Tai Chi 13 dao",
-      "description": "A Chen style Tai Chi form focusing on dao (sword) techniques with 13 movements.",
-      "videoLink": "https://www.youtube.com/watch?v=A4L2ZEQFpmU&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3"
     }
   ],
-  "tai_Chi_weapon_forms": [
+  "tai_chi_weapon_forms": [
     {
       "exercise": "Chen Tai Chi 24 fan",
       "description": "A Tai Chi form incorporating fan techniques with 24 movements.",

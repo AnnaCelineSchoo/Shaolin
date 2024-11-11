@@ -64,6 +64,7 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime, level}
                                 <StrengthTable type="arm_variations" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                                 <StrengthTable type="core" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                                 <StrengthTable type="weapon_forms" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                                <StrengthTable type="tai_chi_weapon_forms" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                             </div>
                         </div>
                     </div>
@@ -109,7 +110,6 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime, level}
                                 <StrengthTable type="arm_variations" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                                 <StrengthTable type="beginner_forms" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                                 <StrengthTable type="higher_forms" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
-
                             </div>
                         </div>
                     </div>
@@ -123,6 +123,8 @@ function WeekSchedule({week, reps, sets, amount, pushupWeek, holdingTime, level}
                             <div className="card-body">
                                 <StrengthTable type="hip" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
                                 <StrengthTable type="core" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+                                <StrengthTable type="tai_chi_forms" week={week} reps={reps} sets={sets} amount={amount} holdingTime={holdingTime} />
+
                             </div>
                         </div>
                     </div>

@@ -21,15 +21,13 @@ function UserForm(){
             setamountOfExcersises(3);
             setPushupWeek(week);
             setHoldingTime(((parseInt(week)) +10).toString())
-            console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
         }
         if (level === "novice") {
           setReps(parseInt(week) + 9);
-          setSets(3);
-          setamountOfExcersises(3);
+          setSets(2);
+          setamountOfExcersises(4);
           setPushupWeek((parseInt(week) +4).toString());
           setHoldingTime(((parseInt(week)*2) +10).toString())
-          console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
       }
         else if(level === "intermediate"){
             setReps(parseInt(week) + 14);
@@ -37,31 +35,27 @@ function UserForm(){
             setamountOfExcersises(4);
             setPushupWeek((parseInt(week) +10).toString());
             setHoldingTime(((parseInt(week)*3) +30).toString())
-            console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
         }
         else if(level === "proficient"){
           setReps(parseInt(week) + 19);
-          setSets(4);
+          setSets(3);
           setamountOfExcersises(4);
           setPushupWeek((parseInt(week) +20).toString());
           setHoldingTime(((parseInt(week)*3) +60).toString())
-          console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
       }
         else if(level === "advanced"){
             setReps(parseInt(week) + 29);
-            setSets(5);
+            setSets(4);
             setamountOfExcersises(4);
-            setPushupWeek(30);
+            setPushupWeek("30");
             setHoldingTime(((parseInt(week)*3) +180).toString())
-            console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
         }
         else if(level === "master"){
           setReps(parseInt(week) + 39);
-          setSets(5);
+          setSets(4);
           setamountOfExcersises(5);
-          setPushupWeek((parseInt(week) +20).toString());
+          setPushupWeek("30");
           setHoldingTime(((parseInt(week)*6) +240).toString())
-          console.log("reps:", reps,"sets" ,  sets,"amount:", amountOfExcersises );
       }
         setSubmitStatus(!submitStatus);
     }

@@ -17,14 +17,17 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                 console.log("type:", type)
                 console.log("Workout data for type:", workoutData);
     
+                let newAmount = amount;
                 let excersiseNumbers = [];
-                while (excersiseNumbers.length < amount) {
+                if (amount > workoutData.length){
+                    newAmount = workoutData.length
+                }
+                while (excersiseNumbers.length < newAmount) {
                     const randomNr = Math.floor(Math.random() * workoutData.length);
                     if (!excersiseNumbers.includes(randomNr)) {
                         excersiseNumbers.push(randomNr);
                     }
                 }
-    
                 // Build the list of exercises
                 const excersisesList = excersiseNumbers.map(index => workoutData[index]);
                 setExcersises(excersisesList);
@@ -40,7 +43,7 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
 
         return (
         <div>
-            <h4 className="bg-black text-white text-center py-2">{type}</h4>
+            <h4 className="bg-black text-white text-center py-2">{type.replaceAll("_", " ")}</h4>
             <div className="table-responsive">
                 <table className="table table-striped">
                     <thead>
@@ -48,7 +51,7 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                             <th>Excersise</th>
                             {type.includes("forms") || type.includes("basics")? null: <th>{ type === "stances" ? "Holding time (sec)" : "reps"}</th>}
                             {type.includes("forms") || type.includes("basics")  ? null : <th>Sets</th>}
-                            <th>videolink</th>
+                            <th className="no-print">videolink</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -58,7 +61,7 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                                 <td>{excersise.exercise}</td>
                                 {type.includes("forms") || type.includes("basics")? null : <td>{type === "stances"? holdingTime : reps}</td>}
                                 {type.includes("forms")|| type.includes("basics") ? null : <td>{sets}</td>}
-                                {excersise.videoLink === ""? <td>not availible</td> : <td><a className="link-danger link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href={excersise.videoLink} target="_blank" rel="noopener noreferrer">video</a></td> }
+                                {excersise.videoLink === ""? <td className="no-print">not availible</td> : <td className="no-print"><a className="link-danger link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href={excersise.videoLink} target="_blank" rel="noopener noreferrer">video</a></td> }
                             </tr>
                             )
                         })}
