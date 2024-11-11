@@ -1,8 +1,6 @@
 import React, {useState, useEffect} from "react";
 
 function StrengthTable({type, week, reps, sets, amount, holdingTime}){
-    const [data, setData] = useState([]);
-    const [workoutData, setWorkoutData]= useState([])
     const [excersises, setExcersises] = useState([]);
 
     useEffect(() => {
@@ -12,12 +10,10 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                 //const response = await fetch('/workouts/strength.json');
                 const response = await fetch(`${process.env.PUBLIC_URL}/workouts/strength.json`);
                 const result = await response.json();
-                setData(result);
                 console.log("fetched data", result); // Log only once on mount
-                console.log("data length", data[type].length);
+                console.log("data length", result[type].length);
 
-                const workoutData = data[type]; // Ensure workoutData is defined
-                setWorkoutData(workoutData);
+                const workoutData = result[type]; // Ensure workoutData is defined
                 console.log("type:", type)
                 console.log("Workout data for type:", workoutData);
     
