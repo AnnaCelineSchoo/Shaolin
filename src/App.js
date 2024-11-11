@@ -4,9 +4,7 @@ import Banner from "./components/Banner.jsx"
 
 
 // TODO
-// add workout to tables
-// make pdf downloadable
-// add youtube links
+// make a forms selection section with defaults
 // add page do workout live with videos
 
 
