@@ -45,20 +45,20 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                 <table className="table table-striped">
                     <thead>
                         <tr>
-                            {/* <th>Round</th> */}
                             <th>Excersise</th>
-                            <th>{type === "basics" || type === "stances"? "Holding time (sec)" : "reps"}</th>
-                            <th>sets</th>
+                            {type.includes("forms") || type.includes("basics")? null: <th>{ type === "stances" ? "Holding time (sec)" : "reps"}</th>}
+                            {type.includes("forms") || type.includes("basics")  ? null : <th>Sets</th>}
+                            <th>videolink</th>
                         </tr>
                     </thead>
                     <tbody>
                         {excersises.map((excersise, index) =>{
                             return (
                             <tr key={index}>
-                                {/* <th>{index+1}</th> */}
                                 <td>{excersise.exercise}</td>
-                                <td>{type === "basics" || type === "stances"? holdingTime : reps}</td>
-                                <td>{sets}</td>
+                                {type.includes("forms") || type.includes("basics")? null : <td>{type === "stances"? holdingTime : reps}</td>}
+                                {type.includes("forms")|| type.includes("basics") ? null : <td>{sets}</td>}
+                                {excersise.videoLink === ""? <td>not availible</td> : <td><a className="link-danger link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href={excersise.videoLink} target="_blank" rel="noopener noreferrer">video</a></td> }
                             </tr>
                             )
                         })}
