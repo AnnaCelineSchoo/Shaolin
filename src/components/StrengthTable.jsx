@@ -1,4 +1,7 @@
 import React, {useState, useEffect} from "react";
+import YouTubeIcon from '@mui/icons-material/YouTube';
+import IconButton from '@mui/material/IconButton';
+import NotInterestedIcon from '@mui/icons-material/NotInterested';
 
 function StrengthTable({type, week, reps, sets, amount, holdingTime}){
     const [excersises, setExcersises] = useState([]);
@@ -61,7 +64,7 @@ function StrengthTable({type, week, reps, sets, amount, holdingTime}){
                                 <td>{excersise.exercise}</td>
                                 {type.includes("forms") || type.includes("basics")? null : <td>{type === "stances"? holdingTime : reps}</td>}
                                 {type.includes("forms")|| type.includes("basics") ? null : <td>{sets}</td>}
-                                {excersise.videoLink === ""? <td className="no-print">not availible</td> : <td className="no-print"><a className="link-danger link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href={excersise.videoLink} target="_blank" rel="noopener noreferrer">video</a></td> }
+                                {excersise.videoLink === ""? <td className="no-print"><NotInterestedIcon/></td> : <td className="no-print"><IconButton className="link-danger link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href={excersise.videoLink} target="_blank" rel="noopener noreferrer"><YouTubeIcon/></IconButton></td> }
                             </tr>
                             )
                         })}
