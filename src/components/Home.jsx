@@ -22,7 +22,7 @@ function Home(){
                  <p className="banner-subtitle">
                  Step in, focus your mind, and unleash your potential. Embrace the journey and welcome to the Shaolin Workout.
                  </p>
-                 <Button variant="contained" href="/WorkoutPlan"  color="error" size="large" endIcon={<ExitToAppIcon />}>Get a Workout Plan</Button>
+                 <Button variant="contained" href="Shaolin/#/WorkoutPlan"  color="error" size="large" endIcon={<ExitToAppIcon />}>Get a Workout Plan</Button>
           </div>
         </div>
       );
