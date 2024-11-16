@@ -21,7 +21,7 @@
     border-radius: 10px;
     text-align: center;
     padding: 30px;
-    max-width: 90%; /* Shrink content width on smaller screens */
+    max-width:50%; /* Shrink content width on smaller screens */
     box-sizing: border-box;
 }
 
