@@ -8,6 +8,7 @@ import './styles/banner.css';
 import './styles/weekSchedule.css';
 import './styles/navbar.css';
 import './styles/home.css';
+import './styles/video.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

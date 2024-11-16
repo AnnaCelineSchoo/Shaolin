@@ -576,61 +576,71 @@
       {
         "exercise": "Qi mei Gun",
         "description": "Long staff form emphasizing sweeping techniques.",
-        "videoLink": "https://www.youtube.com/watch?v=pLOqgvkXm4Q&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=pLOqgvkXm4Q&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "vorm 6 Yin Shou Gun",
         "description": "Hidden Hand Staff form with complex techniques.",
-        "videoLink": "https://www.youtube.com/watch?v=Umbv4X8mPRI&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=Umbv4X8mPRI&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": "Umbv4X8mPRI?si=_Hp1TeuVCF4kHi5K"
       },
       {
         "exercise": "vorm 7 Shaolin Dan Dao",
         "description": "Single Sabre form with powerful strikes.",
-        "videoLink": "https://www.youtube.com/watch?v=QzMICKkRxQE&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
-      },
+        "videoLink": "https://www.youtube.com/watch?v=QzMICKkRxQE&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""      },
       {
         "exercise": "vorm 13 speer",
         "description": "Spear form with thrusts and agile maneuvers.",
-        "videoLink": "https://www.youtube.com/watch?v=wZmjYNHwbUQ&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=wZmjYNHwbUQ&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "Qing Feng Jian",
         "description": "Light Breeze Sword form focused on grace and precision.",
-        "videoLink": "https://www.youtube.com/watch?v=XbRbt6VJ27E&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=XbRbt6VJ27E&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "Shaolin fan",
         "description": "Fan form incorporating defense and flexibility.",
-        "videoLink": ""
+        "videoLink": "",
+        "embedLink": ""
       },
       {
         "exercise": "Pu dao form",
         "description": "Pu Dao form using a polearm with cutting techniques.",
-        "videoLink": "https://www.youtube.com/watch?v=YYJK9PSGA_c&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=YYJK9PSGA_c&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       }
     ],
   "tai_chi_forms": [
     {
       "exercise": "Chen Tai Chi 18",
       "description": "A foundational Tai Chi form with 18 movements from the Chen style.",
-      "videoLink": "https://www.youtube.com/watch?v=HSNKb6UTnNU&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3"
+      "videoLink": "https://www.youtube.com/watch?v=HSNKb6UTnNU&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3",
+      "embedLink": ""
     },
     {
       "exercise": "Rou Quan",
       "description": "A soft and flowing form emphasizing circular movements.",
-      "videoLink": "https://www.youtube.com/watch?v=3PAZOo1DSDA&t=120s&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3"
+      "videoLink": "https://www.youtube.com/watch?v=3PAZOo1DSDA&t=120s&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3",
+      "embedLink": ""
     }
   ],
   "tai_chi_weapon_forms": [
     {
       "exercise": "Chen Tai Chi 24 fan",
       "description": "A Tai Chi form incorporating fan techniques with 24 movements.",
-      "videoLink": "https://www.youtube.com/watch?v=ttjnRvruaOM&t=14s&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3"
+      "videoLink": "https://www.youtube.com/watch?v=ttjnRvruaOM&t=14s&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3",
+      "embedLink": ""
     },
     {
       "exercise": "Chen Tai Chi 13 dao",
       "description": "A Chen style Tai Chi form focusing on dao (sword) techniques with 13 movements.",
-      "videoLink": "https://www.youtube.com/watch?v=A4L2ZEQFpmU&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3"
+      "videoLink": "https://www.youtube.com/watch?v=A4L2ZEQFpmU&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3",
+      "embedLink": ""
     }
   ]
 }

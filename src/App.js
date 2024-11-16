@@ -3,6 +3,7 @@ import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import MainLayout from "./layouts/MainLayout.jsx";
 import HomePage from "./pages/HomePage.jsx";
 import WorkoutPlanPage from "./pages/WorkoutPlanPage.jsx"
+import VideoPage from "./pages/VideoPage.jsx"
 
 // TODO
 // make a forms selection section with defaults
@@ -28,6 +29,7 @@ function App() {
         <Route path="/" element={<MainLayout />}>
           <Route index element={<HomePage />} />
           <Route path="/WorkoutPlan" element={<WorkoutPlanPage />} />
+          <Route path="/Video/:videoId" element={<VideoPage/>}/>
         </Route>
       </Routes>
     </Router>
