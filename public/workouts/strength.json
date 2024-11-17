@@ -3,573 +3,695 @@
     {
       "exercise": "wide pushups",
       "description": "Wide-arm push-up variation to target the chest and shoulders.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "diamand pushups",
       "description": "Diamond push-up to focus on the triceps and inner chest.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "fist pushups",
       "description": "Push-up variation performed on fists to strengthen the wrists and arms.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "finger pushups",
       "description": "Push-up performed on fingers to build finger and hand strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "front pushups",
       "description": "Front-facing push-up for chest and core engagement.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "clap pushups",
       "description": "Clap push-up to develop explosive power in the upper body.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "1 hand pushups",
       "description": "One-handed push-up for increased upper body strength and balance.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "narrow pushups",
       "description": "Narrow push-up to target the triceps and chest more intensely.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "tricep pushup on couch",
       "description": "Tricep dips performed on a bench to target the triceps.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "one arm plank punch",
       "description": "One-arm plank punch to build core and arm stability.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "handstand (pushup)",
       "description": "Reverse handstand push-up against the wall for shoulder and upper body strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     }
   ],
   "stamina": [
     {
       "exercise": "mabu punch 1, 2, 3",
       "description": "Mabu punch. For coordination and upper body strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "mabu punch 2",
       "description": "Mabu punch combo 2 punshes. For coordination and upper body strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "mabu punch 3",
       "description": "Mabu punch combo 3 punshes. For coordination and upper body strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "mabu gong bu punch",
       "description": "switch between mabu and gong bu  and switch punshes",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "mabu gong bu punch",
       "description": "switch between mabu and gong bu and switch punshes",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "mabu gong bu grab and punch",
       "description": "switch between mabu and gong bu in mabu block in gong bu grab and punch",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "mabu gong bu hands on back",
       "description": "switch between mabu and gong bu with the hands on the back",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "mabu gong bu hands on back",
       "description": "switch between mabu and gong bu with the hands on the back",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic round punch",
       "description": "A round punch technique for practicing rotational power.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic step out up down",
       "description": "Basic punshing excersise stepping out in pu bu and punch right, one leg up punsh left, back to mabu punch right, gongbu one knee on ground punch right, step back legs together punch in hand",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     }
   ],
   "leg": [
     {
       "exercise": "punch and switch stance",
       "description": "Switch between different stances while performing kicks.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "down and jump back up",
       "description": "Jump down into a squat position and back up.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "burpies",
       "description": "A full body exercise that combines a squat, push-up, and jump.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "squads",
       "description": "Perform squats to strengthen the legs and glutes.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "jumps",
       "description": "Jump vertically to improve explosive leg strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "low walking",
       "description": "Walk in a low stance to engage the legs and core.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "hamstring leg forward",
       "description": "Hamstring stretch with one leg extended forward.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "hamstring leg backward",
       "description": "Hamstring stretch with one leg extended backward.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "hamstring leg to the side",
       "description": "Hamstring stretch with one leg extended to the side.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lift ankle",
       "description": "Ankle lifts to strengthen the lower leg and improve balance.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "side kick roll",
       "description": "Perform a side kick followed by a rolling motion.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "1 leg squat",
       "description": "Single leg squat to improve strength and balance on one leg.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "jump 360 degrees and land in mabu",
       "description": "360-degree jump landing in a horse stance (mabu).",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "jump 360 degrees",
       "description": "Perform a 360-degree jump.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "rise up from lying position",
       "description": "Get up from a lying position using leg strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "mabu/xi bu/pu bu walk",
       "description": "Walking through various stances to improve leg strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "squat side kick",
       "description": "Perform a side kick while in a squat position.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "squat push kick",
       "description": "A push kick performed from a squat position.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     }
   ],
   "hip": [
     {
       "exercise": "standing knee press up with weight",
       "description": "Standing while pressing one knee up with added weight for resistance.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "one leg squat",
       "description": "Single leg squat to improve strength and stability in the hips and legs.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "sit on the ground, legs wide, lift leg",
       "description": "Sitting on the ground with legs wide apart and raising one leg upwards.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "sit on the ground, extend legs straight and lift up",
       "description": "Sitting on the ground with legs extended straight and lifting them upward.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "sit on the ground, extend legs straight, lift up and to the side",
       "description": "Sitting on the ground with legs extended straight and lifting them to the side.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on back, leg up 90 degrees",
       "description": "Lying on the back with one leg lifted at a 90-degree angle.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "normal bridge",
       "description": "Normal bridge exercise performed lying on the back with knees bent, lifting the body upwards.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "bridges 1 leg",
       "description": "Single leg bridge exercise, lying on the back with one leg raised while lifting the body.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "bridges 1 leg with one leg over the other",
       "description": "Bridge exercise with one leg over the other while lifting the body.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "pubu step left and right",
       "description": "Stepping out to the left and right from a low stance to engage the hips.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on side, leg up",
       "description": "Lying on the side with one leg lifted to target the hip muscles.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on side, leg back and forth",
       "description": "Lying on the side and moving the leg back and forth for hip mobility.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on side, leg circles",
       "description": "Lying on the side and making circular movements with the leg.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on side, legs bent, lift leg to open hip",
       "description": "Lying on the side with bent legs, lifting one leg to open the hip.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on side, knee over leg, lift leg",
       "description": "Lying on the side with one knee over the other leg while lifting the lower leg.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "kneeling, body lean backward",
       "description": "Kneeling and leaning the body backward to stretch the hip flexors.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on stomach, lift one leg",
       "description": "Lying on the stomach and lifting one leg upwards.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on stomach, lift both legs",
       "description": "Lying on the stomach and lifting both legs upwards for lower back and hip strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "on hands and knees, leg side to side",
       "description": "On hands and knees, moving the leg from side to side for hip mobility.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "lying on stomach, legs up, inward and outward",
       "description": "Lying on the stomach with legs lifted, moving them inward and outward.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "on hands and knees, leg up and down",
       "description": "On hands and knees, lifting and lowering the leg for glute activation.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "on hands and knees, bent leg side lift",
       "description": "On hands and knees, lifting a bent leg to the side to target the hip.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     }
   ],
   "core": [
     {
       "exercise": "short sit up",
       "description": "Short sit-up focusing on upper abdominal engagement with a limited range of motion.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "long sit up",
       "description": "Full sit-up involving a complete range of motion to strengthen the entire abdominal area.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "side punch left",
       "description": "Side punch to the left, engaging the obliques and core stability.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "side punch right",
       "description": "Side punch to the right, targeting the obliques and enhancing rotational strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "flutter kicks",
       "description": "Flutter kicks while lying on your back to target the lower abs.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "toe touch",
       "description": "Lying on your back, reaching for your toes to engage the upper and lower abs.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "plank",
       "description": "Standard plank exercise to strengthen the core, shoulders, and back.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "side plank left and right",
       "description": "Side plank variations, engaging the obliques and improving core stability.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "side leg lift",
       "description": "Lying on your side, lifting the legs to engage the obliques and hip flexors.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "leg lift",
       "description": "Lying on your back, lifting both legs to engage the lower abdominal muscles.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "hold legs up and lift torso",
       "description": "Holding the legs up while lifting the torso to engage the entire core.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "leg circles",
       "description": "Lying on your back, moving the legs in a circular motion to work the lower abs.",
-      "videoLink": ""
-    }
+      "videoLink": "",
+        "embedLink": ""
+    },{
+      "exercise": "Russian Twists",
+      "description": "Sit on the floor with your knees bent and feet either flat on the ground or lifted slightly for added difficulty. Lean back slightly, keeping your back straight, and clasp your hands together or hold a weight. Rotate your torso to the left, bringing your hands or weight toward the floor, then twist to the right. This exercise targets the obliques and core.",
+      "videoLink": "",
+      "embedLink": ""
+    },
+    {
+      "exercise": "Candle Tilts",
+      "description": "Lie on your back with your legs straight and lifted vertically toward the ceiling, forming an 'L' shape. Place your arms flat on the floor beside you for stability. Slowly tilt your legs over your head until your toes approach or touch the ground behind you, keeping your legs straight and controlled. Engage your core to lift your legs back to the starting position. Repeat this motion, alternating sides if desired. This exercise targets the core, lower abs, and obliques, improving strength and stability.",
+      "videoLink": "",
+      "embedLink": ""
+    }    
   ],
   "stances":[
     {
       "exercise": "1 mabu",
       "description": "A traditional horse stance that strengthens the legs and builds endurance.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "2 gong bu",
       "description": "A forward lunge stance used for stability and transitioning in forms.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "3 xu bu (catstand)",
       "description": "A stance where one leg bears most of the weight, used to build balance and flexibility.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "4 pu bu",
       "description": "A low stance stretching one leg while the other remains bent, developing flexibility and strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "5 Xie Bu",
       "description": "A cross-legged stance, emphasizing leg strength and mobility.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "6 crossed leg stance (vorm 8)",
       "description": "A stance where the legs are crossed, promoting balance and coordination.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "7 T-stance",
       "description": "A balancing stance used for transitioning in martial arts forms.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "8 raised knee stance",
       "description": "A stance where one knee is raised, focusing on balance and hip strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "9 sitting stance",
       "description": "A wide stance where the body lowers into a seated position, building leg strength and endurance.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     }
   ],
   "basics":[
     {
       "exercise": "basic 1: horse stance",
       "description": "A foundational horse stance that builds strength and stability.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 2: horse stance elbow strike",
       "description": "A horse stance combined with an elbow strike to train power and coordination.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 3: low stance",
       "description": "A low stance to improve flexibility and leg strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 4: low stance elbow strike",
       "description": "A low stance followed by an elbow strike for developing combined flexibility and striking ability.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 5: cross-legged block punch",
       "description": "A cross-legged stance with a defensive block and punch to enhance agility and response.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 6: thrust cat stance",
       "description": "A cat stance with a thrust motion to train precision and balance.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 7: block double punch",
       "description": "A block followed by a double punch for practicing defensive and offensive combinations.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 8: swing kick block double punch to the side",
       "description": "A sequence of swinging kick, block, and double punch to the side, focusing on coordination.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 9: push kick",
       "description": "A push kick used for creating distance and training leg strength.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 10: thrust spinning kick",
       "description": "A thrust combined with a spinning kick for dynamic movement.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 11: arms straight turn",
       "description": "Arm movements followed by a turn to train fluidity and upper body coordination.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 12: ground sweep",
       "description": "A sweeping motion on the ground to improve flexibility and leg control.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 13: spinning kick with jump",
       "description": "A spinning kick performed with a jump for practicing explosive power.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 14: spinning kick block",
       "description": "A spinning kick paired with a block to train multi-tasking in defense and offense.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 15: double palm sweep",
       "description": "A double palm sweeping motion for practicing defensive techniques.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 16: sweep to low stance",
       "description": "A sweeping motion transitioning into a low stance, enhancing fluidity and flexibility.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 17: thrust turn with arms (five-step form)",
       "description": "A thrust followed by a turn with arm movements in a five-step form, focusing on flow and technique.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     },
     {
       "exercise": "basic 18: backward kick",
       "description": "A backward kick to train balance and rear defense.",
-      "videoLink": ""
+      "videoLink": "",
+        "embedLink": ""
     }
   ],
   "beginner_forms": [
       {
         "exercise": "vorm 1 Wu Bu Quan",
         "description": "Basic foundational form for stance work.",
-        "videoLink": "https://www.youtube.com/watch?v=2_QQOiUgsa0&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=2_QQOiUgsa0&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "vorm 2 Lian Huan Quan",
         "description": "Basic continuous form focusing on fluid transitions.",
-        "videoLink": "https://www.youtube.com/watch?v=k45Ncdf6zdc&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=k45Ncdf6zdc&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "vorm 3 Lian Bu Quan",
         "description": "Basic linking step form for coordination and flow.",
-        "videoLink": "https://www.youtube.com/watch?v=iWU55e7NMwA&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=iWU55e7NMwA&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "vorm 4 Ba Bu Lian Bu Quan",
         "description": "Eight-step linking form for balance and control.",
-        "videoLink": "https://www.youtube.com/watch?v=yRhzqBumI2E&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=yRhzqBumI2E&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "vorm 5 Xiao Hong Quan",
         "description": "Small Red Fist form with basic combat applications.",
-        "videoLink": "https://www.youtube.com/watch?v=SizWE-S6GwE&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=SizWE-S6GwE&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "Animal Wu Xing Quan",
         "description": "Animal-style Five Element Fist form.",
-        "videoLink": "https://www.youtube.com/watch?v=qEw0Ah1sVME&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=qEw0Ah1sVME&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       }
     ],
   "higher_forms": [
       {
         "exercise": "vorm 5 Xiao Hong Quan",
         "description": "Small Red Fist form with more advanced combat applications.",
-        "videoLink": "https://www.youtube.com/watch?v=SizWE-S6GwE&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=SizWE-S6GwE&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "vorm 8 Zhao Yang Quan",
         "description": "Zhao Yang Fist form, focused on agility and power.",
-        "videoLink": "https://www.youtube.com/watch?v=fl9hJ6k0Sbo&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=fl9hJ6k0Sbo&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "vorm 9 Tong Bei Quan",
         "description": "Tong Bei Fist form emphasizing power from the back.",
-        "videoLink": "https://www.youtube.com/watch?v=Yp_jMHXc3Qk&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=Yp_jMHXc3Qk&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "Luohan Quan",
         "description": "Luohan Quan form, representing the spirit of the Arhat.",
-        "videoLink": "https://www.youtube.com/watch?v=R_m3C-nAcR0&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29"
+        "videoLink": "https://www.youtube.com/watch?v=R_m3C-nAcR0&ab_channel=VechtsportApeldoornShaolinMartialArts%E5%B0%91%E6%9E%97%E5%8A%9F%E5%A4%AB%28ShaolinKungFuApeldoorn%29",
+        "embedLink": ""
       },
       {
         "exercise": "Qi Xin Quan",
         "description": "Qi Xin Fist form, focusing on internal strength and stability.",
-        "videoLink": ""
+        "videoLink": "",
+        "embedLink": ""
       }
     ],
   "weapon_forms": [
@@ -634,13 +756,13 @@
       "exercise": "Chen Tai Chi 24 fan",
       "description": "A Tai Chi form incorporating fan techniques with 24 movements.",
       "videoLink": "https://www.youtube.com/watch?v=ttjnRvruaOM&t=14s&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3",
-      "embedLink": ""
+      "embedLink": "ttjnRvruaOM?si=QC1t3z5IdzSSrQ6G"
     },
     {
       "exercise": "Chen Tai Chi 13 dao",
       "description": "A Chen style Tai Chi form focusing on dao (sword) techniques with 13 movements.",
       "videoLink": "https://www.youtube.com/watch?v=A4L2ZEQFpmU&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3",
-      "embedLink": ""
+      "embedLink": "A4L2ZEQFpmU?si=HSb-RtkllN6-q_DH"
     }
   ]
 }

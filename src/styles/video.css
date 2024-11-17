@@ -1,29 +1,46 @@
 /* This will center everything inside the .video-container */
 .video-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;  /* Center vertically */
-    align-items: center;      /* Center horizontally */
-    height: 100vh;            /* Take up the full viewport height */
-    text-align: center;
-    margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
+  height: 90vh; /* Take up the full viewport height */
+  text-align: center;
+  margin: 0;
 }
 
 /* Video frame to maintain aspect ratio and size */
 .video-frame {
-    position: relative;
-    width: 50vw; /* Set width to 50% of the viewport width */
-    padding-bottom: 28.125%; /* 16:9 aspect ratio (9 / 16 = 0.5625, and 100 * 0.5625 = 56.25%) */
-    height: 0;
-    overflow: hidden;
-    background-color: black; /* Optional: background color for the iframe container */
+  position: relative;
+  width: 50vw; /* Set width to 50% of the viewport width */
+  padding-bottom: 28.125%; /* 16:9 aspect ratio (9 / 16 = 0.5625, and 100 * 0.5625 = 56.25%) */
+  height: 0;
+  overflow: hidden;
+  background-color: white; /* Optional: background color for the iframe container */
 }
 
 /* Iframe styling */
 .video-frame iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%; /* Ensure iframe takes up the full frame container */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; /* Ensure iframe takes up the full frame container */
+}
+
+/* Media query for phones */
+@media only screen and (max-width: 768px) {
+  .video-container {
+    height: 46vh; /* Take up the full viewport height */
+  }
+
+  .video-frame {
+    width: 100vw; /* Full screen width */
+    height: 100vh; /* Full screen height */
+    padding-bottom: 0; /* Remove aspect ratio enforcement */
+  }
+
+  .video-frame iframe {
+    width: 100vw; /* Ensure iframe spans the full screen width */
+  }
 }
