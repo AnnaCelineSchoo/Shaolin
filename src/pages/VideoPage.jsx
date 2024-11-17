@@ -5,7 +5,7 @@ import { useParams, useLocation } from "react-router-dom";
 function VideoPage() {
   const { videoId } = useParams(); // Get the YouTube video ID from the route parameter
   const location = useLocation();
-  // Extract fallback data from query parameters or defaults
+
   // Extract query parameters using URLSearchParams
   const queryParams = new URLSearchParams(location.search);
   const description =
