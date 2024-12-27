@@ -4,13 +4,13 @@ import Navbar from "../components/Navbar";
 
 // add a navbar component
 
-function MainLayout(){
-    return (
+function MainLayout() {
+  return (
     <>
-        <Navbar/>
-        <Outlet/>
+      <Navbar />
+      <Outlet />
     </>
-    );
+  );
 }
 
 export default MainLayout;

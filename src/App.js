@@ -2,7 +2,7 @@
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import MainLayout from "./layouts/MainLayout.jsx";
 import HomePage from "./pages/HomePage.jsx";
-import WorkoutPlanPage from "./pages/WorkoutPlanPage.jsx"
+import WorkoutPlanPage from "./pages/WorkoutPlanPage.jsx";
 
 // TODO
 // make a forms selection section with defaults
@@ -35,8 +35,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
-

@@ -1,97 +1,97 @@
 /* General Styles */
 .banner-home {
-    background-color: grey;
-    background-image: url('https://www.grunge.com/img/gallery/the-truth-about-the-legendary-shaolin-monk-warriors/shaolin-wisdom-1585866746.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center; /* Center the image for all screens */
-    height: 100vh; /* Full viewport height */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #fff;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-    border-bottom: 4px solid #c16e2b; /* Shaolin orange for a touch of color */
-    padding: 20px; /* Add padding for smaller screens */
-    box-sizing: border-box; /* Include padding in height/width calculations */
+  background-color: grey;
+  background-image: url("https://www.grunge.com/img/gallery/the-truth-about-the-legendary-shaolin-monk-warriors/shaolin-wisdom-1585866746.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; /* Center the image for all screens */
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  border-bottom: 4px solid #c16e2b; /* Shaolin orange for a touch of color */
+  padding: 20px; /* Add padding for smaller screens */
+  box-sizing: border-box; /* Include padding in height/width calculations */
 }
 
 .banner-home-content {
-    background-color: rgba(0, 0, 0, 0.7); /* Use RGBA for a transparent overlay */
-    border-radius: 10px;
-    text-align: center;
-    padding: 30px;
-    max-width:50%; /* Shrink content width on smaller screens */
-    box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.7); /* Use RGBA for a transparent overlay */
+  border-radius: 10px;
+  text-align: center;
+  padding: 30px;
+  max-width: 50%; /* Shrink content width on smaller screens */
+  box-sizing: border-box;
 }
 
 /* Typography */
 .banner-title {
-    font-family: 'Cinzel', serif;
-    font-size: 2.5rem; /* Adjust font size */
-    font-weight: bold;
-    margin-bottom: 10px;
-    letter-spacing: 2px;
+  font-family: "Cinzel", serif;
+  font-size: 2.5rem; /* Adjust font size */
+  font-weight: bold;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
 }
 
 .banner-subtitle {
-    font-family: 'Roboto', sans-serif;
-    font-size: 1rem; /* Adjust font size for smaller screens */
-    max-width: 100%; /* Ensure subtitles scale to fit */
-    margin: 10px auto;
-    line-height: 1.6;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem; /* Adjust font size for smaller screens */
+  max-width: 100%; /* Ensure subtitles scale to fit */
+  margin: 10px auto;
+  line-height: 1.6;
 }
 
 /* Button */
 button {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 /* Responsive Design */
 @media (max-width: 1200px) {
-    .banner-title {
-        font-size: 2rem; /* Slightly smaller font */
-    }
+  .banner-title {
+    font-size: 2rem; /* Slightly smaller font */
+  }
 
-    .banner-subtitle {
-        font-size: 1rem;
-    }
+  .banner-subtitle {
+    font-size: 1rem;
+  }
 
-    .banner-home-content {
-        padding: 20px; /* Reduce padding */
-    }
+  .banner-home-content {
+    padding: 20px; /* Reduce padding */
+  }
 }
 
 @media (max-width: 768px) {
-    .banner-title {
-        font-size: 1.8rem;
-    }
+  .banner-title {
+    font-size: 1.8rem;
+  }
 
-    .banner-subtitle {
-        font-size: 0.9rem;
-    }
+  .banner-subtitle {
+    font-size: 0.9rem;
+  }
 
-    .banner-home-content {
-        max-width: 90%;
-        padding: 15px;
-    }
+  .banner-home-content {
+    max-width: 90%;
+    padding: 15px;
+  }
 }
 
 @media (max-width: 480px) {
-    .banner-title {
-        font-size: 1.5rem;
-    }
+  .banner-title {
+    font-size: 1.5rem;
+  }
 
-    .banner-subtitle {
-        font-size: 0.8rem;
-    }
+  .banner-subtitle {
+    font-size: 0.8rem;
+  }
 
-    .banner-home-content {
-        padding: 10px;
-    }
+  .banner-home-content {
+    padding: 10px;
+  }
 
-    button {
-        font-size: 0.9rem;
-        padding: 10px 15px;
-    }
+  button {
+    font-size: 0.9rem;
+    padding: 10px 15px;
+  }
 }

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Banner = () => {
   return (
@@ -6,7 +6,8 @@ const Banner = () => {
       <div className="banner-content">
         <h1 className="banner-title">Shaolin Workout</h1>
         <p className="banner-subtitle">
-          Achieve your fitness goals with precision and dedication through our structured workout plans.
+          Achieve your fitness goals with precision and dedication through our
+          structured workout plans.
         </p>
       </div>
     </div>
