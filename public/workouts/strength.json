@@ -1,6 +1,36 @@
 {
   "arm_variations": [
     {
+      "exercise": "Push-Up Position Side Plank Walk",
+      "description": "Start in a push-up plank position with your body in a straight line. Move sideways by stepping one hand and the opposite foot to the side, followed by the other hand and foot. Continue walking sideways in a controlled motion, keeping your core tight and hips level throughout.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Push-Up Plank: Lift Arm and Leg on Same Side, Switch Sides",
+      "description": "Start in a push-up plank position. Lift your arm and the leg on the same side simultaneously, keeping your body stable and core engaged. Hold briefly, then lower them back down and repeat on the opposite side. This exercise enhances balance, coordination, and core strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Push-Up Plank with Opposite Arm and Leg Lift",
+      "description": "Start in a push-up plank position. Slowly lift one arm and the opposite leg simultaneously, extending them straight in front of you. Hold briefly while keeping your core engaged and hips level, then lower back down and switch sides. This move improves balance, stability, and core strength.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Plank with Arm Lowering",
+      "description": "Start in a high plank position on your hands. Slowly lower your body down onto your forearms one arm at a time, then press back up to the starting plank position. Keep your core engaged and maintain a straight line from head to heels throughout the movement.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Reverse Plank Walking",
+      "description": "Begin in a reverse plank position with your hands and feet on the ground, hips lifted so your core is off the ground. Move by simultaneously walking your hands and feet forward or backward while keeping your torso elevated and off the ground throughout the movement.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Plank Rotations",
+      "description": "Start in a reverse plank position. Move one leg under your body while simultaneously rotating your arm over your torso. Flip your body to rotate between facing the ground (belly down) and facing up (back down). When performed correctly, your body moves in a circle.",
+      "videoLink": ""
+    },
+    {
       "exercise": "wide pushups",
       "description": "Wide-arm push-up variation to target the chest and shoulders.",
       "videoLink": ""
@@ -58,6 +88,36 @@
   ],
   "stamina": [
     {
+      "exercise": "Wu Long Panda",
+      "description": "Start in a Pu Bu (low side stance) to the right with your left arm extended low in front and your right arm pulled back and up. As you switch to Pu Bu on the other side, perform a circular motion—pulling the left arm up and the right arm down simultaneously. Repeat the movement on the opposite side, switching back into Pu Bu, this time with the right arm rising and the left arm lowering in a smooth, continuous circular flow. Focus on coordination, fluid transitions, and maintaining strong, rooted stances.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Perform 200 Snap Kicks, Switching Sides",
+      "description": "Execute 200 snap kicks, alternating sides to ensure balanced strength and technique. Focus on quick, controlled kicks with proper form and flexibility throughout the exercise.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Perform 200 knee strikes",
+      "description": "Execute 200 controlled knee strikes, focusing on proper form, balance, and power with each strike.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Mabu stance double forward punch, side double palm strike, then bring hands up and return to hips",
+      "description": "Begin in Mabu (horse) stance. Execute a strong double forward punch, followed by a side double palm strike. Finally, raise your hands upward and powerfully bring them back to rest at your hips, maintaining balance and control throughout.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Mabu Taichi - open palms porward Punch ",
+      "description": "Stand in mabu position. Bring both arms to one side, then punch forward with palms facing inward, keeping the hands horizontal. Use a sharp hip movement to add power. At the end of the motion, allow the hands to continue naturally, and let the body relax and sink.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Mabu Taichi – open palms porward Punch ",
+      "description": "Stand in mabu position. Bring both arms to one side, then punch forward with palms facing inward, keeping the hands horizontal. Use a sharp hip movement to add power. At the end of the motion, allow the hands to continue naturally, and let the body relax and sink.",
+      "videoLink": ""
+    },
+    {
       "exercise": "mabu punch 1, 2, 3",
       "description": "Mabu punch. For coordination and upper body strength.",
       "videoLink": ""
@@ -109,6 +169,21 @@
     }
   ],
   "leg": [
+    {
+      "exercise": "Squat Jump Snap Kick",
+      "description": "Start in a squat position, then explode upward into a jump. As you land, squad and immediately perform a snap kick with one leg. Alternate legs with each rep. Focus on explosive power during the jump and sharp, controlled form during the kick.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Arms Wide Step Out in Mabu",
+      "description": "Start in a Mabu (horse) stance with your feet shoulder-width apart. Step one foot out to widen your stance while extending your arms wide for balance and stability. Focus on maintaining a strong, rooted posture throughout the movement.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "continuous Lunges",
+      "description": "Step one leg forward, bend both knees, and lower until your back knee nearly touches the ground. Press back up and repeat on the same leg for the set number of reps, then switch to the other leg.",
+      "videoLink": ""
+    },
     {
       "exercise": "punch and switch stance",
       "description": "Switch between different stances while performing kicks.",
@@ -200,7 +275,74 @@
       "videoLink": ""
     }
   ],
+  "partner-excersises": [
+    {
+      "exercise": "1. Lie on Back with Legs Raised, 2. Partner Presses Legs Down",
+      "description": "One partner lies on their back with legs raised vertically, actively resisting as their partner applies downward pressure on the legs. The goal is to bring the legs back up against the resistance, engaging and strengthening the core and lower abdominal muscles. Switch roles after completing the set.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Partner Sit-Up Uppercut",
+      "description": "One partner performs sit-ups while simultaneously throwing uppercut punches. The other partner holds their palms up to catch and absorb the punches. Switch roles after a set number of reps to build core strength and punching accuracy.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Partner Sit-Up Hook",
+      "description": "While performing sit-ups, one partner throws hook punches that the other partner catches with their palms. Partners alternate roles to improve coordination, core strength, and controlled punching.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Partner Sit-Up Punch",
+      "description": "During sit-ups, one partner throws straight punches while the other holds palms up to catch them. Switch roles regularly to develop core stability, timing, and hand speed.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "1. Mabu Punch Fist, 2. Mabu Press Fist",
+      "description": "Partner 1 presses fists in Mabu (horse) stance while Partner 2 resists with a press using their palms in Mabu stance. Focus on maintaining balance, posture, and controlled power throughout the exchange.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Kongu Pull",
+      "description": "Both partners stand in Kongu stance, grip each other's arms firmly, and pull with maximum effort to build strength and stability in the stance.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "1. Press Arms Down - 2. Squat While Pressing",
+      "description": "Partner 1 holds their arms straight out in front and tries to keep them extended. Partner 2 presses down on their arms while performing squats. Maintain control and coordination throughout the movement.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Mabu Press Back-to-Back",
+      "description": "Stand back-to-back with a partner in Mabu (horse) stance. Apply pressure against each other’s backs, engaging your legs and core to maintain balance and build strength.",
+      "videoLink": ""
+    }
+  ],
   "hip": [
+    {
+      "exercise": "Static Snapkick Training",
+      "description": "Lie on your side with your lower leg extended straight. Bend your upper leg and hold your foot or ankle with your hand. Apply pressure with the bent leg as if performing a snapkick, but use your hand to hold the leg back, creating resistance to strengthen the kicking muscles.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Balance on One Leg – Low Kick Front, Side, Outward",
+      "description": "Stand on one leg and perform low kicks to the front, side, and outward angles with the other leg. Keep your core engaged and maintain balance with controlled movements.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Balance on One Leg - Hip outward Turns",
+      "description": "Stand on one leg and slowly rotate your hip outward while maintaining your balance. Keep your core engaged and movements controlled.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Balance on One Leg - Hip inward Turns",
+      "description": "Stand on one leg and slowly rotate your hip inward while maintaining your balance. Keep your core engaged and movements controlled.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "on back legs split wide and close",
+      "description": "Lying down on your back while opening and closing your legs for inner hip strength.",
+      "videoLink": ""
+    },
     {
       "exercise": "standing knee press up with weight",
       "description": "Standing while pressing one knee up with added weight for resistance.",
@@ -313,6 +455,31 @@
     }
   ],
   "core": [
+    {
+      "exercise": "One-Arm Plank with Leg Lift",
+      "description": "Begin in a plank position supporting your body weight on one arm. Slowly lift the opposite leg off the ground, keeping your body straight and core engaged. Hold briefly, then lower the leg and switch sides to strengthen your core and improve balance.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Air Cycling",
+      "description": "Lie on your back with your legs lifted off the ground. Move your legs in a pedaling motion as if cycling in the air. Keep your lower back pressed to the floor and core engaged throughout.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Bicycle Crunches",
+      "description": "Lie on your back with your hands behind your head and legs lifted. Bring one knee toward your chest while twisting your torso to touch the opposite elbow to the knee. Alternate sides in a pedaling motion, keeping your core tight.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "scissor kicks",
+      "description": "Lie on your back with your hands under your hips. Lift both legs a few inches off the ground, then alternate crossing one leg over the other in a scissor-like motion. Keep your core engaged and your lower back pressed to the floor throughout the movement.",
+      "videoLink": ""
+    },
+    {
+      "exercise": "Snapkick Crunches",
+      "description": "Lie on your back with your arms extended overhead. First, crunch up by bringing your knees and arms toward each other. From this position, perform a double snap kick, then lower your arms and legs back down with control.",
+      "videoLink": ""
+    },
     {
       "exercise": "short sit up",
       "description": "Short sit-up focusing on upper abdominal engagement with a limited range of motion.",
@@ -575,6 +742,11 @@
       "exercise": "Qi Xin Quan",
       "description": "Qi Xin Fist form, focusing on internal strength and stability.",
       "videoLink": ""
+    },
+    {
+      "exercise": "Da Pao Quan",
+      "description": "Qi Xin Fist form, focusing on internal strength and stability.",
+      "videoLink": "https://www.youtube.com/embed/-Td60iFbUDY?si=85ioJ7AH3EjKTxAl"
     }
   ],
   "weapon_forms": [
@@ -636,6 +808,13 @@
       "exercise": "Chen Tai Chi 13 dao",
       "description": "A Chen style Tai Chi form focusing on dao (sword) techniques with 13 movements.",
       "videoLink": "https://www.youtube.com/watch?v=A4L2ZEQFpmU&ab_channel=TaiChiApeldoorn%27HuYongGan%27%E5%A4%AA%E6%A5%B5%E6%8B%B3"
+    }
+  ],
+  "harding": [
+    {
+      "exercise": "Fist Push-Up with Double Floor Punch, Switching Hands",
+      "description": "Begin in a fist push-up position. After completing the push-up, punch the floor twice—once with each hand—alternating sides each rep. Focus on controlled movements, maintaining a strong plank posture, and generating power from the core and shoulders.",
+      "videoLink": ""
     }
   ]
 }
