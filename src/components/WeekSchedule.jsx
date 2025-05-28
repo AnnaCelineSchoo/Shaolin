@@ -104,7 +104,7 @@ function WeekSchedule({
                 <div className="card-body">
                   <PushupTable week={pushupWeek} />
                   <StrengthTable
-                    type="arm_variations"
+                    type="core"
                     week={week}
                     reps={reps}
                     sets={sets}
@@ -112,7 +112,7 @@ function WeekSchedule({
                     holdingTime={holdingTime}
                   />
                   <StrengthTable
-                    type="core"
+                    type="leg"
                     week={week}
                     reps={reps}
                     sets={sets}
@@ -154,7 +154,23 @@ function WeekSchedule({
               {isOpen.monday && (
                 <div className="card-body">
                   <StrengthTable
-                    type="leg"
+                    type="core"
+                    week={week}
+                    reps={reps}
+                    sets={sets}
+                    amount={amount}
+                    holdingTime={holdingTime}
+                  />
+                  <StrengthTable
+                    type="hip"
+                    week={week}
+                    reps={reps}
+                    sets={sets}
+                    amount={amount}
+                    holdingTime={holdingTime}
+                  />
+                  <StrengthTable
+                    type="arm_variations"
                     week={week}
                     reps={reps}
                     sets={sets}
