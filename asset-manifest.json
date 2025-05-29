@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Shaolin/static/css/main.cc4b787d.css",
+    "main.js": "/Shaolin/static/js/main.dc39dc85.js",
+    "static/js/213.057f80d4.chunk.js": "/Shaolin/static/js/213.057f80d4.chunk.js",
+    "static/js/732.3fba199a.chunk.js": "/Shaolin/static/js/732.3fba199a.chunk.js",
+    "static/js/453.419a5d54.chunk.js": "/Shaolin/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Shaolin/index.html",
+    "main.cc4b787d.css.map": "/Shaolin/static/css/main.cc4b787d.css.map",
+    "main.dc39dc85.js.map": "/Shaolin/static/js/main.dc39dc85.js.map",
+    "213.057f80d4.chunk.js.map": "/Shaolin/static/js/213.057f80d4.chunk.js.map",
+    "732.3fba199a.chunk.js.map": "/Shaolin/static/js/732.3fba199a.chunk.js.map",
+    "453.419a5d54.chunk.js.map": "/Shaolin/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b787d.css",
+    "static/js/main.dc39dc85.js"
+  ]
+}
