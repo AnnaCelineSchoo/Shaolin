@@ -27,7 +27,7 @@ function App() {
       <Routes>
         <Route path="/" element={<MainLayout />}>
           <Route index element={<HomePage />} />
-          <Route path="/WorkoutPlan" element={<WorkoutPlanPage />} />
+          <Route path="WorkoutPlan" element={<WorkoutPlanPage />} />
         </Route>
       </Routes>
     </Router>
